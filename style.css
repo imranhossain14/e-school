@@ -1,0 +1,144 @@
+.top, .body1{
+    background-color: #F0FFF0;;
+
+}
+head, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.btn{
+    border-radius: 33px;
+    color: white;
+
+}
+
+#signin{
+    padding: 10px 30px;
+    background-color: #21B573;
+    
+    
+}
+.nav-link{
+    color: black;
+    font-size: 20px; 
+    font-weight: 700;
+    margin: 0 20px;   
+    
+
+}
+
+.body1 h1{
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 2rem;
+    margin: 30px 0px;
+    
+   
+}
+.body1 span{
+    color: #21B573;
+}
+
+.body1 ul{
+    padding-bottom: 5px;
+    list-style-type: none;
+    
+}
+
+.body1 img{
+    width: 554px;
+    height: 346px;
+}
+
+.card-deck img{
+    width: 30%;
+    padding-top: 35px;
+    
+    
+  
+}
+
+.body-section-2 .card {
+    width: 270px;
+    height: 270px;
+}
+.container {
+    
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+    
+    
+}
+
+.body-section-2 .card-all {
+    
+    border-radius: 10px;
+    background-color: #F8FFFB;
+}
+
+.card-white{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+
+}
+.courses h3{
+    text-align: center;
+    font-weight: 700;
+}
+
+#mr-5, #mx-5 {
+    margin-right: 3rem !important;
+}
+
+#w-50 {
+    
+    width: 50% !important;
+}
+
+.testimonial p{
+    margin-top: 50px;
+    
+}
+
+.testimonial h2{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+ footer .Copyright {
+    margin-top: 100px;
+} 
+
+
+
+footer{
+    background-color: #282531;
+    font-size: small;
+    color: gray;
+    padding: 50px;
+    font-weight: 400;
+    
+}
+
+.card-footer {
+
+    background-color: none;
+    border-top: none;
+}
+
+.courses .card img {
+    padding: 20px;
+}
+
+.courses img {
+    vertical-align: middle;
+    border-style: none;
+    width: 200px;
+    height: 200px;
+    
+}
